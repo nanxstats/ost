@@ -11,6 +11,12 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
+```{r, include=FALSE}
+library("bookdown")
+library("bslib")
+library("downlit")
+```
+
 # Welcome {-}
 
 <img src="images/cover.jpg" width="100%" align="right" alt="" class="cover" />
