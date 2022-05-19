@@ -1,0 +1,19 @@
+book_filename: "fonts"
+before_chapter_script: "_common.R"
+
+delete_merged_file: true
+new_session: true
+
+rmd_files:
+- "index.Rmd"
+
+- "preface.Rmd"
+
+- "eb-garamond.Rmd"
+- "libre-caslon-text.Rmd"
+
+- "source-sans-pro.Rmd"
+
+- "source-code-pro.Rmd"
+
+- "dm-serif-display.Rmd"

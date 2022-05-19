@@ -1,0 +1,5 @@
+bookdown::bs4_book:
+  css: style.css
+  theme:
+    primary: "#002FA7"
+  repo: https://github.com/nanxstats/fonts
