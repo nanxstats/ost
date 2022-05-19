@@ -1,5 +1,12 @@
 eb-garamond
 libre-caslon-text
+lora
+source-serif-pro
+charter
+et-book
 source-sans-pro
+dm-sans
 source-code-pro
+cascadia-code
 dm-serif-display
+libre-caslon-display
