@@ -1,12 +1,15 @@
 eb-garamond
 libre-caslon-text
-lora
 source-serif-pro
+lora
 charter
 et-book
 source-sans-pro
 dm-sans
+commissioner
 source-code-pro
 cascadia-code
+inconsolata
+ibm-plex-mono
 dm-serif-display
 libre-caslon-display
