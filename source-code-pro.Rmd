@@ -2,11 +2,22 @@
 
 # Source Code Pro
 
-Regular
+Specimen
 
-_Italic_
+::: {.rmdnote}
+```r
+# Version number comparison utilities
+is_leq <- function(x, y) {
+  z <- compareVersion(x, y)
+  z == 0 | z == -1
+}
 
-**Bold**
+is_geq <- function(x, y) {
+  z <- compareVersion(x, y)
+  z == 0 | z == 1
+}
+```
+:::
 
 <!-- font -->
 
@@ -15,5 +26,5 @@ _Italic_
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 ```{css, echo=FALSE}
-#content { font-family: "Source Code Pro", monospace; }
+.rmdnote code { font-family: "Source Code Pro", monospace; }
 ```
