@@ -1,0 +1,5 @@
+eb-garamond
+libre-caslon-text
+source-sans-pro
+source-code-pro
+dm-serif-display
