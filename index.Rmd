@@ -21,6 +21,9 @@ library("downlit")
 
 <img src="images/cover.jpg" width="100%" align="right" alt="" class="cover" />
 
-_Cover image by [Birmingham Museums Trust](https://unsplash.com/photos/nbneQlI2M1A)_.
+::: {.text-muted}
+Cover image: Naples From Sir William Hamilton's Villa, 1780--1782 by John Warwick Smith.
+Source: [Birmingham Museums Trust](https://unsplash.com/photos/nbneQlI2M1A).
+:::
 
 This list collects my personal favorite free typefaces that are not too overused (yet).

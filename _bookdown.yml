@@ -11,16 +11,19 @@ rmd_files:
 
 - "eb-garamond.Rmd"
 - "libre-caslon-text.Rmd"
-- "lora.Rmd"
 - "source-serif-pro.Rmd"
+- "lora.Rmd"
 - "charter.Rmd"
 - "et-book.Rmd"
 
 - "source-sans-pro.Rmd"
 - "dm-sans.Rmd"
+- "commissioner.Rmd"
 
 - "source-code-pro.Rmd"
 - "cascadia-code.Rmd"
+- "inconsolata.Rmd"
+- "ibm-plex-mono.Rmd"
 
 - "dm-serif-display.Rmd"
 - "libre-caslon-display.Rmd"
