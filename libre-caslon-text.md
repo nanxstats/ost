@@ -1,10 +1,14 @@
 # Libre Caslon Text
 
+Specimen
+
+::: {.rmdnote}
 Regular
 
 _Italic_
 
 **Bold**
+:::
 
 <!-- font -->
 
@@ -13,5 +17,5 @@ _Italic_
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 <style type="text/css">
-#content { font-family: "Libre Caslon Text", serif; }
+.rmdnote { font-family: "Libre Caslon Text", serif; }
 </style>

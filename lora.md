@@ -1,10 +1,14 @@
 # Lora
 
+Specimen
+
+::: {.rmdnote}
 Regular
 
 _Italic_
 
 **Bold**
+:::
 
 <!-- font -->
 
@@ -13,5 +17,5 @@ _Italic_
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 <style type="text/css">
-#content { font-family: "Lora", serif; }
+.rmdnote { font-family: "Lora", serif; }
 </style>
