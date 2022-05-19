@@ -12,8 +12,8 @@ csl: chicago-fullnote-bibliography.csl
 ---
 
 ```{r, include=FALSE}
-library("bookdown")
 library("bslib")
+library("xml2")
 library("downlit")
 ```
 
