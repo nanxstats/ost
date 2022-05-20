@@ -16,3 +16,8 @@ is_geq <- function(x, y) {
 }
 ```
 :::
+
+<style type="text/css">
+@import url("assets/fonts/cascadia-code/cascadia-code.css");
+.rmdnote code { font-family: "Cascadia Code", monospace; }
+</style>
