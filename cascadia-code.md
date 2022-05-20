@@ -1,5 +1,7 @@
 # Cascadia Code
 
+<https://github.com/microsoft/cascadia-code/releases/tag/v2111.01>
+
 Specimen
 
 ::: {.rmdnote}

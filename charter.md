@@ -10,8 +10,6 @@ Regular
 _Italic_
 
 **Bold**
-
-___Bold Italic___
 :::
 
 <style type="text/css">
