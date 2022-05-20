@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "ET Book";
+    src: url("et-book-roman-line-figures.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "ET Book";
+    src: url("et-book-display-italic-old-style-figures.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "ET Book";
+    src: url("et-book-bold-line-figures.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
