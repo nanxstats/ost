@@ -1,21 +1,18 @@
 # Libre Caslon Text
 
-Specimen
-
-::: {.rmdnote}
-Regular
-
-_Italic_
-
-**Bold**
-:::
-
-<!-- font -->
+## Specimen
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-```{css, echo=FALSE}
-.rmdnote { font-family: "Libre Caslon Text", serif; }
+```{css}
+.live { font-family: "Libre Caslon Text", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
 ```

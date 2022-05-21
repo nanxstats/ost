@@ -1,21 +1,18 @@
 # Commissioner
 
-Specimen
-
-::: {.rmdnote}
-Regular
-
-_Italic_ (not yet)
-
-**Bold**
-:::
-
-<!-- font -->
+## Specimen
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400;700&display=swap" rel="stylesheet">
 
-```{css, echo=FALSE}
-.rmdnote { font-family: "Commissioner", sans-serif; }
+```{css}
+.live { font-family: "Commissioner", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
 ```

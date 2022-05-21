@@ -2,17 +2,16 @@
 
 From <https://practicaltypography.com/charter.html>
 
-Specimen
+## Specimen
 
-::: {.rmdnote}
-Regular
-
-_Italic_
-
-**Bold**
-:::
-
-```{css, echo=FALSE}
+```{css}
 @import url("assets/fonts/charter/charter.css");
-.rmdnote { font-family: "Charter", serif; }
+.live { font-family: "Charter", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
 ```

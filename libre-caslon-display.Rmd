@@ -10,6 +10,6 @@ Regular heading
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap" rel="stylesheet">
 
-```{css, echo=FALSE}
+```{css}
 .rmdnote { font-family: "Libre Caslon Display", serif; font-size: 2.5rem; }
 ```

@@ -2,10 +2,12 @@
 
 <https://github.com/microsoft/cascadia-code/releases/tag/v2111.01>
 
-Specimen
+## Specimen
 
 ::: {.rmdnote}
 ```r
+"Il1| 0Oo"
+
 # Version number comparison utilities
 is_leq <- function(x, y) {
   z <- compareVersion(x, y)
@@ -19,7 +21,7 @@ is_geq <- function(x, y) {
 ```
 :::
 
-```{css, echo=FALSE}
+```{css}
 @import url("assets/fonts/cascadia-code/cascadia-code.css");
 .rmdnote code { font-family: "Cascadia Code", monospace; }
 ```
