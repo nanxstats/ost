@@ -2,10 +2,12 @@
 
 <https://github.com/microsoft/cascadia-code/releases/tag/v2111.01>
 
-Specimen
+## Specimen
 
 ::: {.rmdnote}
 ```r
+"Il1| 0Oo"
+
 # Version number comparison utilities
 is_leq <- function(x, y) {
   z <- compareVersion(x, y)

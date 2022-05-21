@@ -2,10 +2,12 @@
 
 # Source Code Pro
 
-Specimen
+## Specimen
 
 ::: {.rmdnote}
 ```r
+"Il1| 0Oo"
+
 # Version number comparison utilities
 is_leq <- function(x, y) {
   z <- compareVersion(x, y)
@@ -18,8 +20,6 @@ is_geq <- function(x, y) {
 }
 ```
 :::
-
-<!-- font -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
