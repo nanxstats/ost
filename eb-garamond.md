@@ -1,5 +1,3 @@
-# (PART\*) Serif {-}
-
 # EB Garamond
 
 ## Specimen
