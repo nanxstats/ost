@@ -2,7 +2,7 @@ function $$(query, el) {
   return [].slice.call((el || document).querySelectorAll(query))
 }
 
-function $(query, el) {
+function $$$(query, el) {
   return (el || document).querySelector(query)
 }
 
