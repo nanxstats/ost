@@ -256,7 +256,7 @@ var CtxEdit = (function () {
       this.bindings = new Bindings()
       this.keyPrefix = 'ctxedit:' + document.location.pathname + ':'
       this.editables = new Map()
-      this.ui = $('#ctxedit-ui')
+      this.ui = $$$('#ctxedit-ui')
       this.currEditable = null
       this._saveValuesTimer = null
       this.isChangingBindings = true
@@ -278,8 +278,8 @@ var CtxEdit = (function () {
     }
 
     initUI() {
-      $('.reset-button', this.ui).addEventListener('click', ev => this.reset())
-      $('.dismiss-button', this.ui).addEventListener('click', ev => this.stopEditing())
+      $$$('.reset-button', this.ui).addEventListener('click', ev => this.reset())
+      $$$('.dismiss-button', this.ui).addEventListener('click', ev => this.stopEditing())
       this.initRangeSliders()
     }
 
@@ -396,7 +396,7 @@ var CtxEdit = (function () {
       b.bindAllInputs($$('.control input', this.ui))
       b.bindAllInputs($$('.control select', this.ui))
 
-      $('.control input[data-binding="tracking"]').addEventListener("dblclick", ev => {
+      $$$('.control input[data-binding="tracking"]').addEventListener("dblclick", ev => {
         let ed = this.currEditable
         setTimeout(() => {
           ed.setExplicitTracking(false)
