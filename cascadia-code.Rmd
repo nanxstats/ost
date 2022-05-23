@@ -4,24 +4,39 @@
 
 ## Specimen
 
-::: {.rmdnote}
+### R
+
 ```r
-"Il1| 0Oo"
-
-# Version number comparison utilities
-is_leq <- function(x, y) {
-  z <- compareVersion(x, y)
-  z == 0 | z == -1
-}
-
-is_geq <- function(x, y) {
-  z <- compareVersion(x, y)
-  z == 0 | z == 1
-}
+```{r, echo=FALSE, results="asis"}
+xfun::file_string("assets/samples/sample.R")
 ```
-:::
+```
+
+### Python
+
+```python
+```{r, echo=FALSE, results="asis"}
+xfun::file_string("assets/samples/sample.py")
+```
+```
+
+### C
+
+```c
+```{r, echo=FALSE, results="asis"}
+xfun::file_string("assets/samples/sample.c")
+```
+```
+
+### JavaScript
+
+```javascript
+```{r, echo=FALSE, results="asis"}
+xfun::file_string("assets/samples/sample.js")
+```
+```
 
 ```{css}
 @import url("assets/fonts/cascadia-code/cascadia-code.css");
-.rmdnote code { font-family: "Cascadia Code", monospace; }
+.sourceCode { font-family: "Cascadia Code", monospace; }
 ```
