@@ -2,12 +2,50 @@
 
 # DM Serif Display
 
-Specimen
+## Specimen
 
 ::: {.rmdnote}
-Regular heading
 
-_Italic heading_
+:::: {.disp-1}
+Modernize Title Display Technologies
+::::
+
+:::: {.disp-2}
+Modernize Title Display Technologies
+::::
+
+:::: {.disp-3}
+Modernize Title Display Technologies
+::::
+
+:::: {.disp-4}
+Modernize Title Display Technologies
+::::
+
+:::: {.disp-5}
+Modernize Title Display Technologies
+::::
+
+:::: {.disp-1}
+_Modernize Title Display Technologies_
+::::
+
+:::: {.disp-2}
+_Modernize Title Display Technologies_
+::::
+
+:::: {.disp-3}
+_Modernize Title Display Technologies_
+::::
+
+:::: {.disp-4}
+_Modernize Title Display Technologies_
+::::
+
+:::: {.disp-5}
+_Modernize Title Display Technologies_
+::::
+
 :::
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,5 +53,10 @@ _Italic heading_
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
 
 <style type="text/css">
-.rmdnote { font-family: "DM Serif Display", serif; font-size: 2.5rem; }
+.rmdnote { font-family: "DM Serif Display", serif; }
+.rmdnote .disp-1 { font-size: 2.5rem; }
+.rmdnote .disp-2 { font-size: 2rem; }
+.rmdnote .disp-3 { font-size: 1.5rem; }
+.rmdnote .disp-4 { font-size: 1.2rem; }
+.rmdnote .disp-5 { font-size: 1rem; }
 </style>

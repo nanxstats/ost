@@ -41,4 +41,6 @@ python-3
 c-3
 javascript-3
 dm-serif-display
+specimen-13
 libre-caslon-display
+specimen-14
