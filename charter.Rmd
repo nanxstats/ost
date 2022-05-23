@@ -1,3 +1,5 @@
+# (PART\*) Serif {-}
+
 # Charter
 
 From <https://practicaltypography.com/charter.html>

@@ -9,21 +9,21 @@ rmd_files:
 
 - "preface.Rmd"
 
-- "eb-garamond.Rmd"
-- "libre-caslon-text.Rmd"
-- "source-serif-pro.Rmd"
-- "lora.Rmd"
 - "charter.Rmd"
+- "eb-garamond.Rmd"
 - "et-book.Rmd"
+- "libre-caslon-text.Rmd"
+- "lora.Rmd"
+- "source-serif-pro.Rmd"
 
-- "source-sans-pro.Rmd"
-- "dm-sans.Rmd"
 - "commissioner.Rmd"
+- "dm-sans.Rmd"
+- "source-sans-pro.Rmd"
 
-- "source-code-pro.Rmd"
 - "cascadia-code.Rmd"
-- "inconsolata.Rmd"
 - "ibm-plex-mono.Rmd"
+- "inconsolata.Rmd"
+- "source-code-pro.Rmd"
 
 - "dm-serif-display.Rmd"
 - "libre-caslon-display.Rmd"

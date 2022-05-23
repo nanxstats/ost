@@ -1,5 +1,3 @@
-# (PART\*) Monospace {-}
-
 # Source Code Pro
 
 ## Specimen

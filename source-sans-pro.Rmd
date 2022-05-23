@@ -1,5 +1,3 @@
-# (PART\*) Sans Serif {-}
-
 # Source Sans Pro
 
 ## Specimen
