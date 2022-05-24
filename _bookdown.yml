@@ -12,12 +12,14 @@ rmd_files:
 - "charter.Rmd"
 - "eb-garamond.Rmd"
 - "et-book.Rmd"
+- "ibm-plex-serif.Rmd"
 - "libre-caslon-text.Rmd"
 - "lora.Rmd"
 - "source-serif-pro.Rmd"
 
 - "commissioner.Rmd"
 - "dm-sans.Rmd"
+- "ibm-plex-sans.Rmd"
 - "source-sans-pro.Rmd"
 
 - "cascadia-code.Rmd"
