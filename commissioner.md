@@ -450,7 +450,8 @@
         interactions between humans and machines occur.
     </livesample>
     <div class="mb-1"></div>
-    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false">
+    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false"
+        style="font-size: 20px; line-height: 1.5;">
 <p><strong>Florentine painting</strong> between Giotto and Michelangelo
 contains the names of such artists as Orcagna, Masaccio, Fra Filippo,
 Pollaiuolo, Verrocchio, Leonardo, and Botticelli. Put beside these the
