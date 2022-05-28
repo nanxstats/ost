@@ -42,7 +42,8 @@
         interactions between humans and machines occur.
     </livesample>
     <div class="mb-1"></div>
-    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false">
+    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false"
+        style="font-size: 20px; line-height: 1.5;">
 ```
 
 **Florentine painting** between Giotto and Michelangelo contains the names
