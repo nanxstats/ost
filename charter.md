@@ -411,24 +411,24 @@ From <https://practicaltypography.com/charter.html>
 <!-- Text sample source: https://www.gutenberg.org/ebooks/17408 -->
 <div class="live">
     <livesample data-ctxedit="sample-700-1" spellcheck="false"
-        style="font-weight: 700; font-size: 60px; line-height: 0.72; letter-spacing: -0.02em;" contenteditable="">
-        Martian™<br>Language Systems Inc.
+        style="font-weight: 700; font-size: 60px; line-height: 0.9; letter-spacing: -0.03em;" contenteditable="">
+        Sensible Defaults™<br>Reproducible Research
     </livesample>
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-400-1" spellcheck="false"
         style="font-weight: 400; font-size: 22px; line-height: 1;" contenteditable="">
-        Interfacing mechanisms are <i>periodically sequencing state</i>
+        Deep neural networks as <i>recursive generalized linear models</i>
     </livesample>
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-400-2" spellcheck="false"
         style="font-weight: 400; font-size: 85px; line-height: 1; letter-spacing: -0.05em; background: #FFF310; display: inline-block; padding: 0.2em 0.3em; text-align: center; width: 100%"
         contenteditable="">
-        XP–45 SERVICE
+        PROJECT I18N
     </livesample>
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-700-2" spellcheck="false"
-        style="font-weight: 700; font-size: 120px; line-height: 1;" contenteditable="">
-        Manifolds
+        style="font-weight: 700; font-size: 112px; line-height: 1;" contenteditable="">
+        Differential
     </livesample>
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-700-3" spellcheck="false"
@@ -440,7 +440,7 @@ From <https://practicaltypography.com/charter.html>
     <div class="mb-5"></div>
     <livesample contenteditable="" data-ctxedit="sample1" spellcheck="false"
         style="font-weight: 700; font-size: 60px; line-height: 1.1">
-        Fabulous typography encountering spring
+        Finding your flow: mastery, mindfulness, and mattering
     </livesample>
     <div class="mb-5"></div>
     <livesample contenteditable="" data-ctxedit="sample2" spellcheck="false">
