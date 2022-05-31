@@ -1,3 +1,9 @@
 # Preface {-}
 
-From Inter samples <https://rsms.me/inter/samples/> by Rasmus Andersson.
+## Acknowledgements {-}
+
+The [editable text component code](https://github.com/nanxstats/fonts/tree/main/assets/ctxedit)
+is derived from "CtxEdit" used on the [Inter samples website](https://rsms.me/inter/samples/)
+([GitHub repo](https://github.com/rsms/inter/tree/master/docs)) by Rasmus Andersson.
+The main change here is we disabled the [dynamic tracking feature](https://rsms.me/inter/dynmetrics/)
+so that the parameters (font size, tracking, and line height) are decoupled in the sample text.
