@@ -46,5 +46,7 @@ c-3
 javascript-3
 dm-serif-display
 specimen-15
-libre-caslon-display
+dm-serif-text
 specimen-16
+libre-caslon-display
+specimen-17
