@@ -29,6 +29,7 @@ rmd_files:
 - "cascadia-code.Rmd"
 - "ibm-plex-mono.Rmd"
 - "inconsolata.Rmd"
+- "red-hat-mono.Rmd"
 - "source-code-pro.Rmd"
 
 - "dm-serif-display.Rmd"
