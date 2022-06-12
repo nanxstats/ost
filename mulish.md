@@ -1,100 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>7 Lora | The Font List</title>
-<meta name="author" content="Nan Xiao">
-<meta name="description" content='7.1 Specimen  .live { font-family: "Lora", serif; } :root {  --strip-height: 55px; } #ctxedit-ui {  z-index: 999;  box-sizing: border-box;  overflow: hidden;  display: flex;  position: fixed; ...'>
-<meta name="generator" content="bookdown 0.26 with bs4_book()">
-<meta property="og:title" content="7 Lora | The Font List">
-<meta property="og:type" content="book">
-<meta property="og:url" content="https://nanx.me/fonts/lora.html">
-<meta property="og:image" content="https://nanx.me/fonts/images/cover.jpg">
-<meta property="og:description" content='7.1 Specimen  .live { font-family: "Lora", serif; } :root {  --strip-height: 55px; } #ctxedit-ui {  z-index: 999;  box-sizing: border-box;  overflow: hidden;  display: flex;  position: fixed; ...'>
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="7 Lora | The Font List">
-<meta name="twitter:description" content='7.1 Specimen  .live { font-family: "Lora", serif; } :root {  --strip-height: 55px; } #ctxedit-ui {  z-index: 999;  box-sizing: border-box;  overflow: hidden;  display: flex;  position: fixed; ...'>
-<meta name="twitter:image" content="https://nanx.me/fonts/images/cover.jpg">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
-    
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  </style>
-<link rel="stylesheet" href="style.css">
-</head>
-<body data-spy="scroll" data-target="#toc">
+# Mulish
 
-<div class="container-fluid">
-<div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+## Specimen
 
-    <div class="d-flex align-items-start justify-content-between">
-      <h1>
-        <a href="index.html" title="">The Font List</a>
-      </h1>
-      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
-    </div>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-    <div id="main-nav" class="collapse-lg">
-      <form role="search">
-        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
-
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Welcome</a></li>
-<li><a class="" href="preface.html">Preface</a></li>
-<li class="book-part">Serif</li>
-<li><a class="" href="charter.html"><span class="header-section-number">1</span> Charter</a></li>
-<li><a class="" href="crimson-pro.html"><span class="header-section-number">2</span> Crimson Pro</a></li>
-<li><a class="" href="eb-garamond.html"><span class="header-section-number">3</span> EB Garamond</a></li>
-<li><a class="" href="et-book.html"><span class="header-section-number">4</span> ET Book</a></li>
-<li><a class="" href="ibm-plex-serif.html"><span class="header-section-number">5</span> IBM Plex Serif</a></li>
-<li><a class="" href="libre-caslon-text.html"><span class="header-section-number">6</span> Libre Caslon Text</a></li>
-<li><a class="active" href="lora.html"><span class="header-section-number">7</span> Lora</a></li>
-<li><a class="" href="source-serif-pro.html"><span class="header-section-number">8</span> Source Serif Pro</a></li>
-<li class="book-part">Sans Serif</li>
-<li><a class="" href="commissioner.html"><span class="header-section-number">9</span> Commissioner</a></li>
-<li><a class="" href="dm-sans.html"><span class="header-section-number">10</span> DM Sans</a></li>
-<li><a class="" href="ibm-plex-sans.html"><span class="header-section-number">11</span> IBM Plex Sans</a></li>
-<li><a class="" href="mulish.html"><span class="header-section-number">12</span> Mulish</a></li>
-<li><a class="" href="nunito-sans.html"><span class="header-section-number">13</span> Nunito Sans</a></li>
-<li><a class="" href="red-hat-text.html"><span class="header-section-number">14</span> Red Hat Text</a></li>
-<li><a class="" href="source-sans-pro.html"><span class="header-section-number">15</span> Source Sans Pro</a></li>
-<li class="book-part">Monospace</li>
-<li><a class="" href="cascadia-code.html"><span class="header-section-number">16</span> Cascadia Code</a></li>
-<li><a class="" href="ibm-plex-mono.html"><span class="header-section-number">17</span> IBM Plex Mono</a></li>
-<li><a class="" href="inconsolata.html"><span class="header-section-number">18</span> Inconsolata</a></li>
-<li><a class="" href="source-code-pro.html"><span class="header-section-number">19</span> Source Code Pro</a></li>
-<li class="book-part">Display</li>
-<li><a class="" href="dm-serif-display.html"><span class="header-section-number">20</span> DM Serif Display</a></li>
-<li><a class="" href="dm-serif-text.html"><span class="header-section-number">21</span> DM Serif Text</a></li>
-<li><a class="" href="libre-caslon-display.html"><span class="header-section-number">22</span> Libre Caslon Display</a></li>
-<li><a class="" href="red-hat-display.html"><span class="header-section-number">23</span> Red Hat Display</a></li>
-<li><a class="" href="references.html">References</a></li>
-</ul>
-
-        <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/nanxstats/fonts">View book source <i class="fab fa-github"></i></a></p>
-        </div>
-      </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="lora" class="section level1" number="7">
-<h1>
-<span class="header-section-number">7</span> Lora<a class="anchor" aria-label="anchor" href="#lora"><i class="fas fa-link"></i></a>
-</h1>
-<div id="specimen-6" class="section level2" number="7.1">
-<h2>
-<span class="header-section-number">7.1</span> Specimen<a class="anchor" aria-label="anchor" href="#specimen-6"><i class="fas fa-link"></i></a>
-</h2>
-<p><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet"></p>
 <style type="text/css">
-.live { font-family: "Lora", serif; }
+.live { font-family: "Mulish", sans-serif; }
 </style>
+
+
+```{=html}
 <style type="text/css">:root {
   --strip-height: 55px;
 }
@@ -486,37 +403,58 @@
 .live :focus-visible {
   outline: none;
 }</style>
-<!-- Convert to html: `pandoc sample.md -o sample.html` --><!-- Text sample source: https://www.gutenberg.org/ebooks/17408 --><div class="live">
-    <livesample data-ctxedit="sample-700-1" spellcheck="false" style="font-weight: 700; font-size: 60px; line-height: 0.9; letter-spacing: -0.03em;" contenteditable="">
+```
+
+```{=html}
+<!-- Convert to html: `pandoc sample.md -o sample.html` -->
+<!-- Text sample source: https://www.gutenberg.org/ebooks/17408 -->
+<div class="live">
+    <livesample data-ctxedit="sample-700-1" spellcheck="false"
+        style="font-weight: 700; font-size: 60px; line-height: 0.9; letter-spacing: -0.03em;" contenteditable="">
         Sensible Defaults™<br>Reproducible Research
-    </livesample><div class="mb-5"></div>
-    <livesample data-ctxedit="sample-400-1" spellcheck="false" style="font-weight: 400; font-size: 22px; line-height: 1;" contenteditable="">
+    </livesample>
+    <div class="mb-5"></div>
+    <livesample data-ctxedit="sample-400-1" spellcheck="false"
+        style="font-weight: 400; font-size: 22px; line-height: 1;" contenteditable="">
         Deep neural networks as <i>recursive generalized linear models</i>
-    </livesample><div class="mb-5"></div>
-    <livesample data-ctxedit="sample-400-2" spellcheck="false" style="font-weight: 400; font-size: 85px; line-height: 1; letter-spacing: -0.05em; background: #FFF310; display: inline-block; padding: 0.2em 0.3em; text-align: center; width: 100%" contenteditable="">
+    </livesample>
+    <div class="mb-5"></div>
+    <livesample data-ctxedit="sample-400-2" spellcheck="false"
+        style="font-weight: 400; font-size: 85px; line-height: 1; letter-spacing: -0.05em; background: #FFF310; display: inline-block; padding: 0.2em 0.3em; text-align: center; width: 100%"
+        contenteditable="">
         PROJECT I18N
-    </livesample><div class="mb-5"></div>
-    <livesample data-ctxedit="sample-700-2" spellcheck="false" style="font-weight: 700; font-size: 112px; line-height: 1;" contenteditable="">
+    </livesample>
+    <div class="mb-5"></div>
+    <livesample data-ctxedit="sample-700-2" spellcheck="false"
+        style="font-weight: 700; font-size: 112px; line-height: 1;" contenteditable="">
         Aspirations
-    </livesample><div class="mb-5"></div>
-    <livesample data-ctxedit="sample-700-3" spellcheck="false" style="font-weight: 700; font-size: 24px; line-height: 1.1; letter-spacing: -0.03em;" contenteditable="">
+    </livesample>
+    <div class="mb-5"></div>
+    <livesample data-ctxedit="sample-700-3" spellcheck="false"
+        style="font-weight: 700; font-size: 24px; line-height: 1.1; letter-spacing: -0.03em;" contenteditable="">
         Functions written in continuation-passing style take an<br>
         extra argument: an explicit “continuation”:<br>
         a function of one argument.
-    </livesample><div class="mb-5"></div>
+    </livesample>
+    <div class="mb-5"></div>
     <hr>
-<div class="mb-5"></div>
-    <livesample contenteditable="" data-ctxedit="sample1" spellcheck="false" style="font-weight: 700; font-size: 60px; line-height: 1.1">
+    <div class="mb-5"></div>
+    <livesample contenteditable="" data-ctxedit="sample1" spellcheck="false"
+        style="font-weight: 700; font-size: 60px; line-height: 1.1">
         Finding your flow:<br>
         mastery, mindfulness,<br>
         and mattering
-    </livesample><div class="mb-5"></div>
+    </livesample>
+    <div class="mb-5"></div>
     <livesample contenteditable="" data-ctxedit="sample2" spellcheck="false">
         From a Bayesian point of view, this corresponds to the expected<br>
         value of the posterior distribution, using a symmetric Dirichlet<br>
         distribution with parameter α as a prior distribution.
-    </livesample><div class="mb-1"></div>
-    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false" style="font-size: 20px; line-height: 1.5;"><p><strong>Emma Woodhouse</strong>, handsome, clever, and rich, with a
+    </livesample>
+    <div class="mb-1"></div>
+    <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false"
+        style="font-size: 20px; line-height: 1.5;">
+<p><strong>Emma Woodhouse</strong>, handsome, clever, and rich, with a
 comfortable home and happy disposition, seemed to unite some of the best
 blessings of existence; and had lived nearly twenty-one years in the
 world with very little to distress or vex her.</p>
@@ -550,6 +488,9 @@ a long evening. Her father composed himself to sleep after dinner, as
 usual, and she had then only to sit and think of what she had lost.</p>
 </livesample>
 </div>
+```
+
+```{=html}
 <div id="ctxedit-ui" class="styled-inputs-neg" contenteditable="false" tabindex="1">
     <div class="wrapper">
 <!--         <div class="control popup">
@@ -576,14 +517,17 @@ usual, and she had then only to sit and think of what she had lost.</p>
             </select>
         </div> -->
         <div class="control range">
-            <img title="Size" class="icon" src="assets/ctxedit/icons/font-size.svg"><input type="range" min="8" max="150" step="1" data-binding="size">
-</div>
+            <img title="Size" class="icon" src="assets/ctxedit/icons/font-size.svg">
+            <input type="range" min="8" max="150" step="1" data-binding="size">
+        </div>
         <div class="control range">
-            <img title="Tracking/letter-spacing in EM" class="icon" src="assets/ctxedit/icons/letter-spacing.svg"><input type="range" min="-0.1" max="0.1" step="0.001" data-binding="tracking">
-</div>
+            <img title="Tracking/letter-spacing in EM" class="icon" src="assets/ctxedit/icons/letter-spacing.svg">
+            <input type="range" min="-0.1" max="0.1" step="0.001" data-binding="tracking">
+        </div>
         <div class="control range">
-            <img title="Line height" class="icon" src="assets/ctxedit/icons/line-height.svg"><input type="range" value="1.2" min="0.7" max="2" step="0.01" data-binding="lineHeight">
-</div>
+            <img title="Line height" class="icon" src="assets/ctxedit/icons/line-height.svg">
+            <input type="range" value="1.2" min="0.7" max="2" step="0.01" data-binding="lineHeight">
+        </div>
         <!-- <div class="control color">
 <input type="color" value="#111" data-binding="color">
 </div> -->
@@ -592,42 +536,11 @@ usual, and she had then only to sit and think of what she had lost.</p>
         <div class="control button dismiss-button" title="Close editor"></div>
     </div>
 </div>
-<script src="assets/ctxedit/base.js"></script><script src="assets/ctxedit/bindings.js"></script><script src="assets/ctxedit/ctxedit.js"></script><script type="text/javascript">(function(){ window.ctxedit = new CtxEdit() })();</script>
-</div>
-</div>
-  <div class="chapter-nav">
-<div class="prev"><a href="libre-caslon-text.html"><span class="header-section-number">6</span> Libre Caslon Text</a></div>
-<div class="next"><a href="source-serif-pro.html"><span class="header-section-number">8</span> Source Serif Pro</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#lora"><span class="header-section-number">7</span> Lora</a></li>
-<li><a class="nav-link" href="#specimen-6"><span class="header-section-number">7.1</span> Specimen</a></li>
-</ul>
+```
 
-      <div class="book-extra">
-        <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/nanxstats/fonts/blob/master/lora.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/nanxstats/fonts/edit/master/lora.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
-        </ul>
-</div>
-    </nav>
-</div>
-
-</div>
-</div> <!-- .container -->
-
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
-
-  <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>The Font List</strong>" was written by Nan Xiao. </p>
-  </div>
-
-  <div class="col-12 col-md-6 mt-3">
-    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
-  </div>
-
-</div></div>
-</footer>
-</body>
-</html>
+```{=html}
+<script src="assets/ctxedit/base.js"></script>
+<script src="assets/ctxedit/bindings.js"></script>
+<script src="assets/ctxedit/ctxedit.js"></script>
+<script type="text/javascript">(function(){ window.ctxedit = new CtxEdit() })();</script>
+```
