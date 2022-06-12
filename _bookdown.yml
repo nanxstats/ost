@@ -28,6 +28,7 @@ rmd_files:
 - "source-code-pro.Rmd"
 
 - "dm-serif-display.Rmd"
+- "dm-serif-text.Rmd"
 - "libre-caslon-display.Rmd"
 
 - "references.Rmd"
