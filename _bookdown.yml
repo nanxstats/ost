@@ -23,6 +23,7 @@ rmd_files:
 - "ibm-plex-sans.Rmd"
 - "mulish.Rmd"
 - "nunito-sans.Rmd"
+- "red-hat-text.Rmd"
 - "source-sans-pro.Rmd"
 
 - "cascadia-code.Rmd"
