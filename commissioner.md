@@ -1,5 +1,3 @@
-# (PART\*) Sans Serif {-}
-
 # Commissioner
 
 ## Specimen
