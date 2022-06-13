@@ -18,6 +18,7 @@ rmd_files:
 - "lora.Rmd"
 - "source-serif-pro.Rmd"
 
+- "cabin.Rmd"
 - "commissioner.Rmd"
 - "dm-sans.Rmd"
 - "ibm-plex-sans.Rmd"
