@@ -21,6 +21,7 @@ rmd_files:
 - "commissioner.Rmd"
 - "dm-sans.Rmd"
 - "ibm-plex-sans.Rmd"
+- "libre-franklin.Rmd"
 - "mulish.Rmd"
 - "nunito-sans.Rmd"
 - "red-hat-text.Rmd"
