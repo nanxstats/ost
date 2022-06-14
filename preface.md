@@ -1,5 +1,10 @@
 # Preface {-}
 
+Useful links:
+
+- [Typography for Developers](https://www.youtube.com/watch?v=agbh1wbfJt8),
+a 2-hour course for beginners from freeCodeCamp.org.
+
 ## Acknowledgements {-}
 
 The [editable text component code](https://github.com/nanxstats/fonts/tree/main/assets/ctxedit)

@@ -21,7 +21,7 @@
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-700-2" spellcheck="false"
         style="font-weight: 700; font-size: 112px; line-height: 1;" contenteditable="">
-        Aspirations
+        Illusion Age
     </livesample>
     <div class="mb-5"></div>
     <livesample data-ctxedit="sample-700-3" spellcheck="false"
