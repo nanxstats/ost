@@ -21,6 +21,7 @@ rmd_files:
 - "cabin.Rmd"
 - "commissioner.Rmd"
 - "dm-sans.Rmd"
+- "fira-sans.Rmd"
 - "ibm-plex-sans.Rmd"
 - "nunito-sans.Rmd"
 - "red-hat-text.Rmd"
