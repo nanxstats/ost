@@ -1,5 +1,5 @@
 --- 
-title: "The Font List"
+title: "Outstanding Fonts for Open Source Projects"
 author: "Nan Xiao"
 site: bookdown::bookdown_site
 documentclass: book
@@ -26,4 +26,5 @@ Cover image: Naples From Sir William Hamilton's Villa, 1780--1782 by John Warwic
 Source: [Birmingham Museums Trust](https://unsplash.com/photos/nbneQlI2M1A).
 :::
 
-This list collects my personal favorite free typefaces that are not too overused (yet).
+This is an interactive lookbook for outstanding typefaces that are suitable
+for open source projects.
