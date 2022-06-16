@@ -1,5 +1,11 @@
 # Preface {-}
 
+Criteria:
+
+- Free license.
+- [Reliable](https://fonts.google.com/knowledge/choosing_type/choosing_reliable_typefaces), in terms of legibility and available weights.
+- Not too overused (yet).
+
 Useful links:
 
 - [Typography for Developers](https://www.youtube.com/watch?v=agbh1wbfJt8),
