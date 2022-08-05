@@ -9,6 +9,7 @@ rmd_files:
 
 - "preface.Rmd"
 
+- "cardo.Rmd"
 - "charter.Rmd"
 - "crimson-pro.Rmd"
 - "eb-garamond.Rmd"
