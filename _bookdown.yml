@@ -25,6 +25,7 @@ rmd_files:
 - "fira-sans.Rmd"
 - "ibm-plex-sans.Rmd"
 - "inter.Rmd"
+- "jost.Rmd"
 - "nunito-sans.Rmd"
 - "red-hat-text.Rmd"
 - "source-sans-pro.Rmd"
