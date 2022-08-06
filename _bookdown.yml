@@ -23,6 +23,7 @@ rmd_files:
 - "commissioner.Rmd"
 - "dm-sans.Rmd"
 - "fira-sans.Rmd"
+- "hk-grotesk.Rmd"
 - "ibm-plex-sans.Rmd"
 - "inter.Rmd"
 - "jost.Rmd"

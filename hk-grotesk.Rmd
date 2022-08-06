@@ -1,0 +1,17 @@
+# HK Grotesk
+
+<https://github.com/HankenDesignCo/HK-Grotesk>
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/hk-grotesk/hk-grotesk.css");
+.live { font-family: "HK Grotesk", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
