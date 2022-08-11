@@ -1,8 +1,8 @@
-# IBM Plex Mono
+# IBM Plex Mono {-}
 
-## Specimen
+## Specimen {-}
 
-### R
+### R {-}
 
 ```r
 "Il1|" >= "0Oo"
@@ -22,7 +22,7 @@ p <- ggplot(
 p + scale_fill_rickandmorty()
 ```
 
-### Python
+### Python {-}
 
 ```python
 import cvxpy as cp
@@ -43,7 +43,7 @@ print("\nThe optimal value is", prob.value)
 print("The norm of the residual is ", cp.norm(A @ x - b, p=2).value)
 ```
 
-### C
+### C {-}
 
 ```c
 #include <stdint.h> // uint32_t
@@ -61,7 +61,7 @@ float Q_rsqrt(float number)
 }
 ```
 
-### JavaScript
+### JavaScript {-}
 
 ```javascript
 function $initHighlight(block, cls) {

@@ -1,8 +1,8 @@
 # (PART\*) Display {-}
 
-# DM Serif Display
+# DM Serif Display {-}
 
-## Specimen
+## Specimen {-}
 
 ::: {.rmdnote}
 

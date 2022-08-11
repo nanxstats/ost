@@ -1,8 +1,8 @@
-# HK Grotesk
+# HK Grotesk {-}
 
 <https://github.com/HankenDesignCo/HK-Grotesk>
 
-## Specimen
+## Specimen {-}
 
 <style type="text/css">
 @import url("assets/fonts/hk-grotesk/hk-grotesk.css");

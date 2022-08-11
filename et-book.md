@@ -1,8 +1,8 @@
-# ET Book
+# ET Book {-}
 
 <https://github.com/edwardtufte/et-book>
 
-## Specimen
+## Specimen {-}
 
 <style type="text/css">
 @import url("assets/fonts/et-book/et-book.css");

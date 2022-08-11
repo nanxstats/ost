@@ -1,13 +1,13 @@
-# Figtree {-}
+# Roboto Serif {-}
 
 ## Specimen {-}
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,400;0,8..144,700;1,8..144,400&display=swap" rel="stylesheet">
 
 <style type="text/css">
-.live { font-family: "Figtree", sans-serif; }
+.live { font-family: "Roboto Serif", serif; }
 </style>
 
 
