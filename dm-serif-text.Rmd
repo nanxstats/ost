@@ -1,6 +1,6 @@
-# DM Serif Text
+# DM Serif Text {-}
 
-## Specimen
+## Specimen {-}
 
 ::: {.rmdnote}
 

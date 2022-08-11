@@ -1,8 +1,8 @@
-# IBM Plex Mono
+# IBM Plex Mono {-}
 
-## Specimen
+## Specimen {-}
 
-### R
+### R {-}
 
 ```r
 ```{r, echo=FALSE, results="asis"}
@@ -10,7 +10,7 @@ xfun::file_string("assets/samples/sample.R")
 ```
 ```
 
-### Python
+### Python {-}
 
 ```python
 ```{r, echo=FALSE, results="asis"}
@@ -18,7 +18,7 @@ xfun::file_string("assets/samples/sample.py")
 ```
 ```
 
-### C
+### C {-}
 
 ```c
 ```{r, echo=FALSE, results="asis"}
@@ -26,7 +26,7 @@ xfun::file_string("assets/samples/sample.c")
 ```
 ```
 
-### JavaScript
+### JavaScript {-}
 
 ```javascript
 ```{r, echo=FALSE, results="asis"}

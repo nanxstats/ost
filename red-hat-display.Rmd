@@ -1,6 +1,6 @@
-# Red Hat Display
+# Red Hat Display {-}
 
-## Specimen
+## Specimen {-}
 
 ::: {.rmdnote}
 

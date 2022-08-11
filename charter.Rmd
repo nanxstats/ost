@@ -1,8 +1,8 @@
-# Charter
+# Charter {-}
 
 From <https://practicaltypography.com/charter.html>
 
-## Specimen
+## Specimen {-}
 
 ```{css}
 @import url("assets/fonts/charter/charter.css");

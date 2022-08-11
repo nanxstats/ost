@@ -1,6 +1,6 @@
-# Libre Caslon Display
+# Libre Caslon Display {-}
 
-## Specimen
+## Specimen {-}
 
 ::: {.rmdnote}
 
