@@ -30,6 +30,7 @@ rmd_files:
 - "inter.Rmd"
 - "jost.Rmd"
 - "nunito-sans.Rmd"
+- "outfit.Rmd"
 - "red-hat-text.Rmd"
 - "source-sans-pro.Rmd"
 
