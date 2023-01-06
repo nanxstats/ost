@@ -35,6 +35,7 @@ rmd_files:
 - "source-sans-pro.Rmd"
 
 - "cascadia-code.Rmd"
+- "fira-code.Rmd"
 - "ibm-plex-mono.Rmd"
 - "inconsolata.Rmd"
 - "red-hat-mono.Rmd"
