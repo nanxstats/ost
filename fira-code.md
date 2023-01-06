@@ -1,4 +1,6 @@
-# Inconsolata {-}
+# Fira Code {-}
+
+Fira Code, Fira Mono
 
 ## Specimen {-}
 
@@ -89,8 +91,8 @@ export $initHighlight;
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
 <style type="text/css">
-.sourceCode { font-family: "Inconsolata", monospace; }
+.sourceCode { font-family: "Fira Code", monospace; }
 </style>
