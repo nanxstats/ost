@@ -43,6 +43,7 @@ rmd_files:
 
 - "dm-serif-display.Rmd"
 - "dm-serif-text.Rmd"
+- "gloock.Rmd"
 - "libre-caslon-display.Rmd"
 - "red-hat-display.Rmd"
 
