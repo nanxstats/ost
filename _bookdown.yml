@@ -25,7 +25,7 @@ rmd_files:
 - "dm-sans.Rmd"
 - "figtree.Rmd"
 - "fira-sans.Rmd"
-- "hk-grotesk.Rmd"
+- "hanken-grotesk.Rmd"
 - "ibm-plex-sans.Rmd"
 - "inter.Rmd"
 - "jost.Rmd"
