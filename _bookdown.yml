@@ -48,4 +48,6 @@ rmd_files:
 - "libre-caslon-display.Rmd"
 - "red-hat-display.Rmd"
 
+- "alegreya-sans-sc.Rmd"
+
 - "references.Rmd"
