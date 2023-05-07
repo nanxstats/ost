@@ -49,5 +49,6 @@ rmd_files:
 - "red-hat-display.Rmd"
 
 - "alegreya-sans-sc.Rmd"
+- "spectral-sc.Rmd"
 
 - "references.Rmd"
