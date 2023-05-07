@@ -17,6 +17,7 @@ rmd_files:
 - "ibm-plex-serif.Rmd"
 - "libre-caslon-text.Rmd"
 - "lora.Rmd"
+- "newsreader.Rmd"
 - "roboto-serif.Rmd"
 - "source-serif-pro.Rmd"
 
