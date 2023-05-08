@@ -6,10 +6,7 @@ Criteria:
 - [Reliable](https://fonts.google.com/knowledge/choosing_type/choosing_reliable_typefaces), in terms of legibility and available weights.
 - Not too overused (yet).
 
-Useful links:
-
-- [Typography for Developers](https://www.youtube.com/watch?v=agbh1wbfJt8),
-a 2-hour course for beginners from freeCodeCamp.org.
+The favicon is made with [IM Fell Great Primer](https://fonts.google.com/specimen/IM+Fell+Great+Primer).
 
 ## Acknowledgements {-}
 

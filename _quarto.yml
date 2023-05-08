@@ -15,6 +15,7 @@ book:
   sharing: [twitter, linkedin]
   image: "images/cover.jpg"
   cover-image: "images/cover.jpg"
+  favicon: "images/favicon.png"
   chapters:
     - index.qmd
     - preface.qmd
