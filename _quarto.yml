@@ -7,10 +7,14 @@ book:
   title: "Open Source Typography"
   subtitle: "A Curated Lookbook for Creative Expression"
   author: "Nan Xiao"
-  cover-image: "images/cover.jpg"
   description: |
     Dive into the world of open source typography and elevate your
     creative expression.
+  repo-url: https://github.com/nanxstats/fonts
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  image: "images/cover.jpg"
+  cover-image: "images/cover.jpg"
   chapters:
     - index.qmd
     - preface.qmd
