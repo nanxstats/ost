@@ -10,7 +10,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Specimen 
+## Specimen
 
 ::: {.callout}
 
