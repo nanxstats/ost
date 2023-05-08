@@ -1,0 +1,27 @@
+# ET Book
+
+```{r, include=FALSE}
+options(width = 60)
+
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE,
+  echo = FALSE
+)
+```
+
+<https://github.com/edwardtufte/et-book>
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/et-book/et-book.css");
+.live { font-family: "ET Book", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```

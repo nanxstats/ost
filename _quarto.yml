@@ -1,0 +1,70 @@
+project:
+  type: book
+
+highlight-style: github
+
+book:
+  title: "Open Source Typography"
+  subtitle: "A Curated Lookbook for Creative Expression"
+  author: "Nan Xiao"
+  cover-image: "images/cover.jpg"
+  description: |
+    Dive into the world of open source typography and elevate your
+    creative expression.
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: serif.qmd
+      chapters:
+        - cardo.qmd
+        - charter.qmd
+        - crimson-pro.qmd
+        - eb-garamond.qmd
+        - et-book.qmd
+        - ibm-plex-serif.qmd
+        - libre-caslon-text.qmd
+        - lora.qmd
+        - newsreader.qmd
+        - roboto-serif.qmd
+        - source-serif-pro.qmd
+    - part: sans-serif.qmd
+      chapters:
+        - cabin.qmd
+        - commissioner.qmd
+        - dm-sans.qmd
+        - figtree.qmd
+        - fira-sans.qmd
+        - hanken-grotesk.qmd
+        - ibm-plex-sans.qmd
+        - inter.qmd
+        - jost.qmd
+        - nunito-sans.qmd
+        - outfit.qmd
+        - red-hat-text.qmd
+        - source-sans-pro.qmd
+    - part: monospace.qmd
+      chapters:
+        - cascadia-code.qmd
+        - fira-code.qmd
+        - ibm-plex-mono.qmd
+        - inconsolata.qmd
+        - red-hat-mono.qmd
+        - source-code-pro.qmd
+    - part: display.qmd
+      chapters:
+        - dm-serif-display.qmd
+        - dm-serif-text.qmd
+        - gloock.qmd
+        - libre-caslon-display.qmd
+        - red-hat-display.qmd
+    - part: small-caps.qmd
+      chapters:
+        - alegreya-sans-sc.qmd
+        - spectral-sc.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo

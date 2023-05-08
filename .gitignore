@@ -3,8 +3,4 @@
 .RData
 .Ruserdata
 
-renv/
-.Rprofile
-
-fonts.rds
-_book/
+/.quarto/

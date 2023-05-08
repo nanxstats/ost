@@ -1,0 +1,28 @@
+# Inter
+
+```{r, include=FALSE}
+options(width = 60)
+
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE,
+  echo = FALSE
+)
+```
+
+## Specimen
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
+```{css}
+.live { font-family: "Inter", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```

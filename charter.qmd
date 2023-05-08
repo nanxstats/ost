@@ -1,0 +1,27 @@
+# Charter
+
+```{r, include=FALSE}
+options(width = 60)
+
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE,
+  echo = FALSE
+)
+```
+
+From <https://practicaltypography.com/charter.html>
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/charter/charter.css");
+.live { font-family: "Charter", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```

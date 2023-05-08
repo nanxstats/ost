@@ -1,0 +1,15 @@
+# Welcome {.unnumbered}
+
+This is an opinionated guide for discovering a carefully selected collection
+of exquisite open source fonts that are perfect for your software projects
+and websites.
+This unique lookbook showcases a variety of typefaces - from serif and
+sans serif to display and small caps - that are not only visually
+stunning but also robust in design.
+We have curated a range of fonts that, while being available under open
+licenses, have not yet been overused, ensuring your projects maintain a fresh
+and distinctive appearance.
+
+Cover image: Naples From Sir William Hamilton's Villa, 1780--1782 by
+John Warwick Smith.
+Source: [Birmingham Museums Trust](https://unsplash.com/photos/nbneQlI2M1A).
