@@ -10,7 +10,7 @@ The favicon is made with [IM Fell Great Primer](https://fonts.google.com/specime
 
 ## Acknowledgements {-}
 
-The [editable text component code](https://github.com/nanxstats/fonts/tree/main/assets/ctxedit)
+The [editable text component code](https://github.com/nanxstats/ost/tree/main/assets/ctxedit)
 is derived from "CtxEdit" used on the [Inter samples website](https://rsms.me/inter/samples/)
 ([GitHub repo](https://github.com/rsms/inter/tree/master/docs)) by Rasmus Andersson.
 The main change here is we disabled the [dynamic tracking feature](https://rsms.me/inter/dynmetrics/)

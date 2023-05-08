@@ -10,7 +10,7 @@ book:
   description: |
     Dive into the world of open source typography and elevate your
     creative expression.
-  repo-url: https://github.com/nanxstats/fonts
+  repo-url: https://github.com/nanxstats/ost
   repo-actions: [edit, issue, source]
   sharing: [twitter, linkedin]
   image: "images/cover.jpg"
