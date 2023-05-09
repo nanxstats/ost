@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-Welcome to _Open Source Typography_.
+Welcome to Open Source Typography by [Nan Xiao](https://nanx.me/).
 This is an opinionated guide for discovering typefaces from a selected
 collection of exquisite open source fonts for your next software or website
 project. This lookbook showcases a variety of typefaces - from serif and
