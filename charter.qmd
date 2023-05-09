@@ -10,7 +10,10 @@ knitr::opts_chunk$set(
 )
 ```
 
-From <https://practicaltypography.com/charter.html>
+<a href="https://practicaltypography.com/charter.html" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Practical Typography
+</a>
 
 ## Specimen
 

@@ -10,7 +10,14 @@ knitr::opts_chunk$set(
 )
 ```
 
-<https://github.com/edwardtufte/et-book>
+<a href="https://github.com/edwardtufte/et-book" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+GitHub
+</a>
+<a href="https://edwardtufte.github.io/et-book/" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Website
+</a>
 
 ## Specimen
 

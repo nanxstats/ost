@@ -73,3 +73,4 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    css: custom.css
