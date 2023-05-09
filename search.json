@@ -4,14 +4,35 @@
     "href": "index.html",
     "title": "Open Source Typography",
     "section": "",
-    "text": "Welcome\nThis is an opinionated guide for discovering a carefully selected collection of exquisite open source fonts that are perfect for your software projects and websites. This unique lookbook showcases a variety of typefaces - from serif and sans serif to display and small caps - that are not only visually stunning but also robust in design. We have curated a range of fonts that, while being available under open licenses, have not yet been overused, ensuring your projects maintain a fresh and distinctive appearance.\nCover image: Naples From Sir William Hamilton’s Villa, 1780–1782 by John Warwick Smith. Source: Birmingham Museums Trust."
+    "text": "Welcome\nWelcome to Open Source Typography. This is an opinionated guide for discovering typefaces from a selected collection of exquisite open source fonts for your next software or website project. This lookbook showcases a variety of typefaces - from serif and sans serif to display and small caps - that are not only visually stunning but also reliable in design.\nCover image: Naples From Sir William Hamilton’s Villa, 1780–1782 by John Warwick Smith. Source: Birmingham Museums Trust."
+  },
+  {
+    "objectID": "preface.html#why-this-lookbook",
+    "href": "preface.html#why-this-lookbook",
+    "title": "Preface",
+    "section": "Why this lookbook",
+    "text": "Why this lookbook\nAs a designer or developer, you likely have come across high-quality open source typefaces on platforms like Google Fonts, only to forget about them later when they could have been the perfect fit for a project. This book was born out of that very frustration: the need for an easily accessible reference for those beautiful, functional, and open source typefaces that sometimes slip through memory."
+  },
+  {
+    "objectID": "preface.html#what-is-included",
+    "href": "preface.html#what-is-included",
+    "title": "Preface",
+    "section": "What is included",
+    "text": "What is included\nThis project serves as an interactive lookbook for designers and developers, allowing you to quickly browse through fonts, experiment with them, and discover new options for your creative projects. The typefaces featured in this book have been handpicked based on a set of criteria designed to ensure they are truly useful and valuable additions to your design toolkit.\nThe basic selection criteria for the typefaces featured in this book are:\n\nFree license: focus on fonts that are available under open licenses, ensuring they are suitable for a wide range of projects without any legal concerns.\nReliable design: Legibility, readability, a variety of weights and styles are crucial factors in determining the usefulness of a font. I have selected typefaces that excel in these areas, allowing you to confidently implement them in your work.\nNot too overused: While it is true that many open source fonts are widely used, I have aimed to showcase those that are relatively less overused, especially when proper variants and combinations are chosen. This subtle distinction allows you to bring a fresh and distinctive touch to your projects.\n\nBy compiling these typefaces into a single, easy-to-navigate resource, I hope to provide you with a valuable tool for creative expression. Whether you are a seasoned professional or just starting out, this lookbook is designed to help you discover and utilize the best open source typography has to offer."
+  },
+  {
+    "objectID": "preface.html#how-to-experiment-with-typeface-appearance",
+    "href": "preface.html#how-to-experiment-with-typeface-appearance",
+    "title": "Preface",
+    "section": "How to experiment with typeface appearance",
+    "text": "How to experiment with typeface appearance\nIn this lookbook, I have made it easy for you to experiment with the appearance of the fonts in real-world settings. In chapters featuring serif and sans serif fonts, you will find editable example text components that demonstrate how the font might look in various contexts.\nTo customize the appearance of these text components, simply click on the text you would like to modify. A popup will appear at the bottom of the page, providing you with options to adjust the font size, tracking (horizontal spacing), and line height for that specific component. To return to the default settings for a text component, click the “reset” icon option in the popup."
   },
   {
     "objectID": "preface.html#acknowledgements",
     "href": "preface.html#acknowledgements",
     "title": "Preface",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThe editable text component code is derived from “CtxEdit” used on the Inter samples website (GitHub repo) by Rasmus Andersson. The main change here is we disabled the dynamic tracking feature so that the parameters (font size, tracking, and line height) are decoupled in the sample text."
+    "text": "Acknowledgements\nThe editable text component code is derived from “CtxEdit” used on the Inter samples website (GitHub repo) by Rasmus Andersson. The main change here is we disabled the dynamic tracking feature so that the parameters (font size, tracking, and line height) are decoupled in the sample text. The favicon is made with IM Fell Great Primer."
   },
   {
     "objectID": "serif.html",
