@@ -1,3 +1,7 @@
 # Display
 
-A placeholder to introduce the part.
+Display typefaces are specifically designed to capture attention and
+make a statement. These fonts are perfect for headlines, posters,
+and other large-scale applications where a strong visual impact is crucial.
+They are useful for creating memorable and engaging designs that stand out
+from the crowd.
