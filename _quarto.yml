@@ -10,15 +10,21 @@ book:
   description: |
     Dive into the world of open source typography with this
     typeface lookbook.
-  repo-url: https://github.com/nanxstats/ost
-  repo-actions: [edit, issue, source]
-  sharing: [twitter, linkedin]
+
   image: "images/cover.png"
   cover-image: "images/cover.png"
   favicon: "images/favicon.png"
+
+  site-url: https://nanx.me/ost/
+  repo-url: https://github.com/nanxstats/ost
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  reader-mode: true
+
   chapters:
     - index.qmd
     - preface.qmd
+
     - part: serif.qmd
       chapters:
         - cardo.qmd
@@ -32,6 +38,7 @@ book:
         - newsreader.qmd
         - roboto-serif.qmd
         - source-serif-pro.qmd
+
     - part: sans-serif.qmd
       chapters:
         - cabin.qmd
@@ -47,6 +54,7 @@ book:
         - outfit.qmd
         - red-hat-text.qmd
         - source-sans-pro.qmd
+
     - part: monospace.qmd
       chapters:
         - cascadia-code.qmd
@@ -55,6 +63,7 @@ book:
         - inconsolata.qmd
         - red-hat-mono.qmd
         - source-code-pro.qmd
+
     - part: display.qmd
       chapters:
         - dm-serif-display.qmd
@@ -62,10 +71,12 @@ book:
         - gloock.qmd
         - libre-caslon-display.qmd
         - red-hat-display.qmd
+
     - part: small-caps.qmd
       chapters:
         - alegreya-sans-sc.qmd
         - spectral-sc.qmd
+
     - references.qmd
 
 bibliography: references.bib
