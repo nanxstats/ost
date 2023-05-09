@@ -3,3 +3,7 @@
 .btn {
     border-radius: 4px;
 }
+
+.quarto-cover-image {
+    border: 1px solid rgb(206, 212, 218);
+}

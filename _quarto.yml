@@ -13,8 +13,8 @@ book:
   repo-url: https://github.com/nanxstats/ost
   repo-actions: [edit, issue, source]
   sharing: [twitter, linkedin]
-  image: "images/cover.jpg"
-  cover-image: "images/cover.jpg"
+  image: "images/cover.png"
+  cover-image: "images/cover.png"
   favicon: "images/favicon.png"
   chapters:
     - index.qmd
