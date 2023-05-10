@@ -1,4 +1,4 @@
-# Source Serif Pro
+# Source Serif
 
 ```{r, include=FALSE}
 options(width = 60)
@@ -9,6 +9,19 @@ knitr::opts_chunk$set(
   echo = FALSE
 )
 ```
+
+<a href="https://fonts.google.com/specimen/Source+Serif+Pro" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Google Fonts (Source Serif Pro)
+</a>
+<a href="https://fonts.google.com/specimen/Source+Serif+4" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Google Fonts (Source Serif 4)
+</a>
+<a href="https://github.com/adobe-fonts/source-serif" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+GitHub
+</a>
 
 ## Specimen
 

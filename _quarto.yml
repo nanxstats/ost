@@ -37,7 +37,7 @@ book:
         - lora.qmd
         - newsreader.qmd
         - roboto-serif.qmd
-        - source-serif-pro.qmd
+        - source-serif.qmd
 
     - part: sans-serif.qmd
       chapters:
@@ -53,7 +53,7 @@ book:
         - nunito-sans.qmd
         - outfit.qmd
         - red-hat-text.qmd
-        - source-sans-pro.qmd
+        - source-sans.qmd
 
     - part: monospace.qmd
       chapters:

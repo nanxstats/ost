@@ -10,7 +10,14 @@ knitr::opts_chunk$set(
 )
 ```
 
-Fira Code, Fira Mono
+<a href="https://fonts.google.com/specimen/Fira+Code" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Google Fonts
+</a>
+<a href="https://github.com/tonsky/FiraCode" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+GitHub
+</a>
 
 ## Specimen
 

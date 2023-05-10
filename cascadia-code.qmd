@@ -10,7 +10,10 @@ knitr::opts_chunk$set(
 )
 ```
 
-<https://github.com/microsoft/cascadia-code/releases/tag/v2111.01>
+<a href="https://github.com/microsoft/cascadia-code" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+GitHub
+</a>
 
 ## Specimen
 

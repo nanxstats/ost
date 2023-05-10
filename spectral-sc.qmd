@@ -10,6 +10,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+<a href="https://fonts.google.com/specimen/Spectral+SC" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+Google Fonts
+</a>
+<a href="https://github.com/productiontype/Spectral" class="btn btn-outline-secondary" role="button" target="_blank">
+<i class="bi bi-box-arrow-up-right"></i>
+GitHub
+</a>
+
 ## Specimen
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
