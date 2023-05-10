@@ -15,7 +15,7 @@
   padding: 0 0;
   height: var(--strip-height);
 
-  background: #002FA7;
+  background: #1b589d;
   color: #ccc;
   font-size: 12px;
   /*border-top-left-radius: 4px;
@@ -102,7 +102,7 @@
   -webkit-appearance: none;
   -moz-appearance: none;
   border: none;
-  background-color: #002FA7;
+  background-color: #1b589d;
   margin: 0;
   padding: 0;
   height: var(--strip-height);
@@ -126,7 +126,7 @@
 #ctxedit-ui .control>select:-moz-focusring {
   color: transparent;
   text-shadow: 0 0 0 #fff;
-  background-color: #002FA7;
+  background-color: #1b589d;
   font: inherit;
   font-size: inherit;
 }
@@ -291,7 +291,7 @@
   --track-color: rgba(255, 255, 255, 0.3);
 
   --thumb-outline-thickness: 2px;
-  --thumb-outline-color: #002FA7;
+  --thumb-outline-color: #1b589d;
   /* match control strip */
   --thumb-diameter: 10px;
   --thumb-color: white;
@@ -377,7 +377,7 @@
   width: 9px;
   height: 9px;
   /*border: 2px solid rgba(0,0,0,0.8);*/
-  box-shadow: 0px 0px 0px 2px #002FA7;
+  box-shadow: 0px 0px 0px 2px #1b589d;
   border-radius: 100%;
   background: white;
 }
