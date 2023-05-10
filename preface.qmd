@@ -64,4 +64,4 @@ so that the parameters (font size, tracking, and line height) are decoupled in t
 
 The cover image background is from [Josh Calabrese](https://unsplash.com/photos/XXpbdU_31Sg). Text typed with [Outfit](https://nanx.me/ost/outfit.html).
 
-The favicon is made with [IM Fell Great Primer](https://fonts.google.com/specimen/IM+Fell+Great+Primer).
+The favicon is made with [Inconsolata](https://nanx.me/ost/inconsolata.html).
