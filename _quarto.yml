@@ -1,5 +1,8 @@
 project:
   type: book
+  resources:
+    - images/preview.png
+    - assets/
 
 highlight-style: github
 
@@ -20,6 +23,20 @@ book:
   repo-actions: [edit, issue, source]
   sharing: [twitter, linkedin]
   reader-mode: true
+
+  open-graph:
+    image: https://nanx.me/ost/images/preview.png
+    description: |
+      Discover exceptional open source typefaces in this curated lookbook
+      for web and software design projects.
+  twitter-card:
+    image: https://nanx.me/ost/images/preview.png
+    description: |
+      Discover exceptional open source typefaces in this curated lookbook
+      for web and software design projects.
+    card-style: summary_large_image
+    creator: "@nanxstats"
+    site: "@nanxstats"
 
   chapters:
     - index.qmd
