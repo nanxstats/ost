@@ -8,3 +8,8 @@ img.quarto-cover-image {
     border: 1px solid rgb(206, 212, 218);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .15);
 }
+
+/* Reserve space for the popup */
+nav.page-navigation {
+    margin-bottom: 55px;
+}
