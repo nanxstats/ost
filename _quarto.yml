@@ -8,11 +8,11 @@ book:
   subtitle: "A Curated Lookbook for Creative Expression"
   author: "Nan Xiao"
   description: |
-    Dive into the world of open source typography with this
-    typeface lookbook.
+    Discover exceptional open source typefaces in this curated lookbook
+    for web and software design projects.
 
-  image: "images/cover.png"
   cover-image: "images/cover.png"
+  image: "images/preview.png"
   favicon: "images/favicon.png"
 
   site-url: https://nanx.me/ost/
