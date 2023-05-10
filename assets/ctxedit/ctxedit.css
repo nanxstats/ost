@@ -222,7 +222,7 @@
 /* narrow viewports */
 @media only screen and (max-width: 639px) {
   #ctxedit-ui {
-    background: black;
+    background: #1b589d;
     height: calc(var(--strip-height) * 4);
   }
 

@@ -1,3 +1,4 @@
+/* Use Bootstrap Icons for buttons */
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
 
 .btn {
@@ -12,4 +13,13 @@ img.quarto-cover-image {
 /* Reserve space for the popup */
 nav.page-navigation {
     margin-bottom: 55px;
+}
+
+/* Hot fix for the editable text components under Quarto */
+.live {
+    margin-top: 5px;
+}
+
+livesample {
+    margin-left: 0px !important;
 }

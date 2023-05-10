@@ -45,7 +45,7 @@
         value of the posterior distribution, using a symmetric Dirichlet<br>
         distribution with parameter α as a prior distribution.
     </livesample>
-    <div class="mb-1"></div>
+    <div class="mb-5"></div>
     <livesample contenteditable="" data-ctxedit="sample3" spellcheck="false"
         style="font-size: 20px; line-height: 1.5;">
 ```
