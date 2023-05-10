@@ -32,7 +32,7 @@
     "href": "preface.html#acknowledgements",
     "title": "Preface",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThe editable text component code is derived from “CtxEdit” used on the Inter samples website (GitHub repo) by Rasmus Andersson. The main change here is we disabled the dynamic tracking feature so that the parameters (font size, tracking, and line height) are decoupled in the sample text.\nThe cover image background is from Josh Calabrese. Text typed with Outfit.\nThe favicon is made with IM Fell Great Primer."
+    "text": "Acknowledgements\nThe editable text component code is derived from “CtxEdit” used on the Inter samples website (GitHub repo) by Rasmus Andersson. The main change here is we disabled the dynamic tracking feature so that the parameters (font size, tracking, and line height) are decoupled in the sample text.\nThe cover image background is from Josh Calabrese. Text typed with Outfit.\nThe favicon is made with Inconsolata."
   },
   {
     "objectID": "serif.html",
