@@ -1,6 +1,6 @@
 Package: open.source.typography
 Type: Book
-Title: Open Source Typography: A Curated Lookbook for Creative Expression
+Title: Open Source Typography
 Version: 0.1.0
 Authors@R: c(
     person("Nan", "Xiao", email = "hello@nanx.me", role = c("aut", "cre"))
