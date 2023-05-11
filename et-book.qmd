@@ -1,23 +1,15 @@
 # ET Book
 
 ```{r, include=FALSE}
-options(width = 60)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  echo = FALSE
-)
+source("_common.R")
 ```
 
-<a href="https://github.com/edwardtufte/et-book" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-GitHub
-</a>
-<a href="https://edwardtufte.github.io/et-book/" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Website
-</a>
+```{r}
+htmltools::tagList(
+  btn_link("https://github.com/edwardtufte/et-book", "GitHub"),
+  btn_link("https://edwardtufte.github.io/et-book/", "Website")
+)
+```
 
 ## Specimen
 

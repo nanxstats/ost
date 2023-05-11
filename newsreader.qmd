@@ -1,23 +1,15 @@
 # Newsreader
 
 ```{r, include=FALSE}
-options(width = 60)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  echo = FALSE
-)
+source("_common.R")
 ```
 
-<a href="https://fonts.google.com/specimen/Newsreader" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Google Fonts
-</a>
-<a href="https://github.com/productiontype/Newsreader" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-GitHub
-</a>
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Newsreader", "Google Fonts"),
+  btn_link("https://github.com/productiontype/Newsreader", "GitHub")
+)
+```
 
 ## Specimen
 

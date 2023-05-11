@@ -1,19 +1,14 @@
 # Charter
 
 ```{r, include=FALSE}
-options(width = 60)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  echo = FALSE
-)
+source("_common.R")
 ```
 
-<a href="https://practicaltypography.com/charter.html" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Practical Typography
-</a>
+```{r}
+htmltools::tagList(
+  btn_link("https://practicaltypography.com/charter.html", "Practical Typography")
+)
+```
 
 ## Specimen
 

@@ -1,27 +1,16 @@
 # Source Serif
 
 ```{r, include=FALSE}
-options(width = 60)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  echo = FALSE
-)
+source("_common.R")
 ```
 
-<a href="https://fonts.google.com/specimen/Source+Serif+Pro" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Google Fonts (Source Serif Pro)
-</a>
-<a href="https://fonts.google.com/specimen/Source+Serif+4" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Google Fonts (Source Serif 4)
-</a>
-<a href="https://github.com/adobe-fonts/source-serif" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-GitHub
-</a>
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Source+Serif+Pro", "Google Fonts (Source Serif Pro)"),
+  btn_link("https://fonts.google.com/specimen/Source+Serif+4", "Google Fonts (Source Serif 4)"),
+  btn_link("https://github.com/adobe-fonts/source-serif", "GitHub")
+)
+```
 
 ## Specimen
 

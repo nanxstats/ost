@@ -1,27 +1,16 @@
 # Source Sans
 
 ```{r, include=FALSE}
-options(width = 60)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  echo = FALSE
-)
+source("_common.R")
 ```
 
-<a href="https://fonts.google.com/specimen/Source+Sans+Pro" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Google Fonts (Source Sans Pro)
-</a>
-<a href="https://fonts.google.com/specimen/Source+Sans+3" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-Google Fonts (Source Sans 3)
-</a>
-<a href="https://github.com/adobe-fonts/source-sans" class="btn btn-outline-secondary" role="button" target="_blank">
-<i class="bi bi-box-arrow-up-right"></i>
-GitHub
-</a>
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Source+Sans+Pro", "Google Fonts (Source Sans Pro)"),
+  btn_link("https://fonts.google.com/specimen/Source+Sans+3", "Google Fonts (Source Sans 3)"),
+  btn_link("https://github.com/adobe-fonts/source-sans", "GitHub")
+)
+```
 
 ## Specimen
 
