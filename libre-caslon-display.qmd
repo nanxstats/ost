@@ -13,39 +13,21 @@ htmltools::tagList(
 
 ## Specimen
 
-::: {.callout}
-
-:::: {.disp-1}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-2}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-3}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-4}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-5}
-Modernize Title Display Technologies
-::::
-
-:::
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap" rel="stylesheet">
 
 ```{css}
-.callout { font-family: "Libre Caslon Display", serif; }
-.callout .disp-1 { font-size: 2.5rem; }
-.callout .disp-2 { font-size: 2rem; }
-.callout .disp-3 { font-size: 1.5rem; }
-.callout .disp-4 { font-size: 1.2rem; }
-.callout .disp-5 { font-size: 1rem; }
+.live { font-family: "Libre Caslon Display", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
+
+```{r}
+htmltools::includeScript("assets/ctxedit/regular-only.js")
 ```

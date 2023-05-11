@@ -13,104 +13,17 @@ htmltools::tagList(
 
 ## Specimen
 
-::: {.callout}
-
-:::: {.disp-1}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-2}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-3}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-4}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-5}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-1}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-2}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-3}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-4}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-5}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-bold-1}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-bold-2}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-bold-3}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-bold-4}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-bold-5}
-Modernize Title Display Technologies
-::::
-
-:::: {.disp-bold-1}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-bold-2}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-bold-3}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-bold-4}
-_Modernize Title Display Technologies_
-::::
-
-:::: {.disp-bold-5}
-_Modernize Title Display Technologies_
-::::
-
-:::
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 ```{css}
-.callout { font-family: "Red Hat Display", serif; }
-.callout .disp-1 { font-size: 2.5rem; }
-.callout .disp-2 { font-size: 2rem; }
-.callout .disp-3 { font-size: 1.5rem; }
-.callout .disp-4 { font-size: 1.2rem; }
-.callout .disp-5 { font-size: 1rem; }
-.callout .disp-bold-1 { font-size: 2.375rem; font-weight: 700; }
-.callout .disp-bold-2 { font-size: 2rem; font-weight: 700; }
-.callout .disp-bold-3 { font-size: 1.5rem; font-weight: 700; }
-.callout .disp-bold-4 { font-size: 1.2rem; font-weight: 700; }
-.callout .disp-bold-5 { font-size: 1rem; font-weight: 700; }
+.live { font-family: "Red Hat Display", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
 ```
