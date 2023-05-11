@@ -52,3 +52,7 @@ xfun::file_string("assets/samples/sample.js")
 ```{css}
 .sourceCode { font-family: "Source Code Pro", monospace; }
 ```
+
+```{r}
+htmltools::includeScript("assets/samples/editable-code.js")
+```
