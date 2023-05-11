@@ -40,7 +40,7 @@ Whether you are a seasoned professional or just starting out,
 this lookbook is designed to help you discover and utilize the
 best open source typography has to offer.
 
-## How to experiment with typeface appearance
+## How to experiment with font appearance
 
 In this lookbook, I have made it easy for you to experiment with the appearance
 of the fonts in real-world settings. In chapters featuring serif and sans serif
