@@ -76,6 +76,7 @@ book:
       chapters:
         - cascadia-code.qmd
         - fira-code.qmd
+        - fragment-mono.qmd
         - ibm-plex-mono.qmd
         - inconsolata.qmd
         - red-hat-mono.qmd
