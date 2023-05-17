@@ -58,6 +58,7 @@ book:
 
     - part: sans-serif.qmd
       chapters:
+        - aspekta.qmd
         - cabin.qmd
         - commissioner.qmd
         - dm-sans.qmd

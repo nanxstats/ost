@@ -1,0 +1,25 @@
+# Aspekta
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://github.com/ivodolenc/aspekta", "GitHub")
+)
+```
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/aspekta/aspekta.css");
+.live { font-family: "Aspekta", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
