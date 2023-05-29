@@ -10,6 +10,11 @@ img.quarto-cover-image {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .15);
 }
 
+/* Unfixing font-smoothing */
+body {
+    -webkit-font-smoothing: auto;
+}
+
 /* Reserve space for the popup */
 nav.page-navigation {
     margin-bottom: 55px;
