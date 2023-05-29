@@ -2,194 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nanx.me/ost/index.html</loc>
-    <lastmod>2023-05-29T02:06:08.042Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.483Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/preface.html</loc>
-    <lastmod>2023-05-29T02:06:08.050Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.499Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/serif.html</loc>
-    <lastmod>2023-05-29T02:06:08.066Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.507Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/cardo.html</loc>
-    <lastmod>2023-05-29T02:06:08.078Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.519Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/charter.html</loc>
-    <lastmod>2023-05-29T02:06:08.090Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.527Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/cormorant-garamond.html</loc>
-    <lastmod>2023-05-29T02:06:08.098Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.547Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/crimson-pro.html</loc>
-    <lastmod>2023-05-29T02:06:08.118Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.555Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/eb-garamond.html</loc>
-    <lastmod>2023-05-29T02:06:08.126Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.567Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/et-book.html</loc>
-    <lastmod>2023-05-29T02:06:08.138Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.587Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/ibm-plex-serif.html</loc>
-    <lastmod>2023-05-29T02:06:08.158Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.595Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/libre-caslon-text.html</loc>
-    <lastmod>2023-05-29T02:06:08.166Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.607Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/lora.html</loc>
-    <lastmod>2023-05-29T02:06:08.178Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nanx.me/ost/mlmodern.html</loc>
+    <lastmod>2023-05-29T21:40:50.635Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/newsreader.html</loc>
-    <lastmod>2023-05-29T02:06:08.190Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.647Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/roboto-serif.html</loc>
-    <lastmod>2023-05-29T02:06:08.206Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.659Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/source-serif.html</loc>
-    <lastmod>2023-05-29T02:06:08.218Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.675Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/sans-serif.html</loc>
-    <lastmod>2023-05-29T02:06:08.226Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.683Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/aspekta.html</loc>
-    <lastmod>2023-05-29T02:06:08.238Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.695Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/cabin.html</loc>
-    <lastmod>2023-05-29T02:06:08.258Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.715Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/commissioner.html</loc>
-    <lastmod>2023-05-29T02:06:08.266Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.727Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/dm-sans.html</loc>
-    <lastmod>2023-05-29T02:06:08.278Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.735Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/figtree.html</loc>
-    <lastmod>2023-05-29T02:06:08.298Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.747Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/fira-sans.html</loc>
-    <lastmod>2023-05-29T02:06:08.306Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.763Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/hanken-grotesk.html</loc>
-    <lastmod>2023-05-29T02:06:08.318Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.775Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/ibm-plex-sans.html</loc>
-    <lastmod>2023-05-29T02:06:08.330Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.787Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/inter.html</loc>
-    <lastmod>2023-05-29T02:06:08.346Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.807Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/jost.html</loc>
-    <lastmod>2023-05-29T02:06:08.358Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.827Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/nunito-sans.html</loc>
-    <lastmod>2023-05-29T02:06:08.370Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.851Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/outfit.html</loc>
-    <lastmod>2023-05-29T02:06:08.390Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.883Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/red-hat-text.html</loc>
-    <lastmod>2023-05-29T02:06:08.410Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.895Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/source-sans.html</loc>
-    <lastmod>2023-05-29T02:06:08.434Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.903Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/monospace.html</loc>
-    <lastmod>2023-05-29T02:06:08.454Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.915Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/cascadia-code.html</loc>
-    <lastmod>2023-05-29T02:06:08.482Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.935Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/fira-code.html</loc>
-    <lastmod>2023-05-29T02:06:08.498Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.951Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/fragment-mono.html</loc>
-    <lastmod>2023-05-29T02:06:08.518Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.967Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/ibm-plex-mono.html</loc>
-    <lastmod>2023-05-29T02:06:08.538Z</lastmod>
+    <lastmod>2023-05-29T21:40:50.991Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/inconsolata.html</loc>
-    <lastmod>2023-05-29T02:06:08.554Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.007Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/red-hat-mono.html</loc>
-    <lastmod>2023-05-29T02:06:08.578Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.031Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/source-code-pro.html</loc>
-    <lastmod>2023-05-29T02:06:08.594Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.047Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/display.html</loc>
-    <lastmod>2023-05-29T02:06:08.610Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.059Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/dm-serif-display.html</loc>
-    <lastmod>2023-05-29T02:06:08.622Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.075Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/dm-serif-text.html</loc>
-    <lastmod>2023-05-29T02:06:08.634Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.087Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/gloock.html</loc>
-    <lastmod>2023-05-29T02:06:08.642Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.099Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/libre-caslon-display.html</loc>
-    <lastmod>2023-05-29T02:06:08.662Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.115Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/red-hat-display.html</loc>
-    <lastmod>2023-05-29T02:06:08.674Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.127Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/small-caps.html</loc>
-    <lastmod>2023-05-29T02:06:08.682Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.135Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/alegreya-sans-sc.html</loc>
-    <lastmod>2023-05-29T02:06:08.698Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.147Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/spectral-sc.html</loc>
-    <lastmod>2023-05-29T02:06:08.710Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.163Z</lastmod>
   </url>
   <url>
     <loc>https://nanx.me/ost/references.html</loc>
-    <lastmod>2023-05-29T02:06:08.718Z</lastmod>
+    <lastmod>2023-05-29T21:40:51.171Z</lastmod>
   </url>
 </urlset>
