@@ -1,0 +1,25 @@
+# MLModern
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://ctan.org/pkg/mlmodern", "CTAN")
+)
+```
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/mlmodern/mlmodern.css");
+.live { font-family: "MLModern", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```

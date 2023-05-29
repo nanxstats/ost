@@ -53,6 +53,7 @@ book:
         - ibm-plex-serif.qmd
         - libre-caslon-text.qmd
         - lora.qmd
+        - mlmodern.qmd
         - newsreader.qmd
         - roboto-serif.qmd
         - source-serif.qmd
