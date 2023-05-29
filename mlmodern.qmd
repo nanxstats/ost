@@ -6,7 +6,8 @@ source("_common.R")
 
 ```{r}
 htmltools::tagList(
-  btn_link("https://ctan.org/pkg/mlmodern", "CTAN")
+  btn_link("https://ctan.org/pkg/mlmodern", "CTAN"),
+  btn_link("https://gist.github.com/nanxstats/1f767cb964dda645a90f84cbade05dcb", "Conversion Script")
 )
 ```
 
