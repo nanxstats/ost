@@ -46,6 +46,7 @@ book:
       chapters:
         - cardo.qmd
         - charter.qmd
+        - cormorant-garamond.qmd
         - crimson-pro.qmd
         - eb-garamond.qmd
         - et-book.qmd
