@@ -6,8 +6,7 @@ source("_common.R")
 
 ```{r}
 htmltools::tagList(
-  btn_link("https://fonts.google.com/specimen/Source+Sans+Pro", "Google Fonts (Source Sans Pro)"),
-  btn_link("https://fonts.google.com/specimen/Source+Sans+3", "Google Fonts (Source Sans 3)"),
+  btn_link("https://fonts.google.com/specimen/Source+Sans+3", "Google Fonts"),
   btn_link("https://github.com/adobe-fonts/source-sans", "GitHub")
 )
 ```
@@ -16,10 +15,10 @@ htmltools::tagList(
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 ```{css}
-.live { font-family: "Source Sans Pro", sans-serif; }
+.live { font-family: "Source Sans 3", sans-serif; }
 ```
 
 ```{r}
