@@ -83,6 +83,7 @@ book:
         - ibm-plex-mono.qmd
         - inconsolata.qmd
         - red-hat-mono.qmd
+        - roboto-mono.qmd
         - source-code-pro.qmd
 
     - part: display.qmd
