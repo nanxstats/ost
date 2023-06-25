@@ -97,6 +97,7 @@ book:
     - part: small-caps.qmd
       chapters:
         - alegreya-sans-sc.qmd
+        - im-fell-french-canon-sc.qmd
         - spectral-sc.qmd
 
     - references.qmd

@@ -1,0 +1,32 @@
+# IM Fell French Canon SC
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/IM+Fell+French+Canon+SC", "Google Fonts")
+)
+```
+
+## Specimen
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap" rel="stylesheet">
+
+```{css}
+.live { font-family: "IM Fell French Canon SC", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
+
+```{r}
+htmltools::includeScript("assets/ctxedit/regular-only.js")
+```
