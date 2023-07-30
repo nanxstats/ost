@@ -52,6 +52,7 @@ book:
         - et-book.qmd
         - ibm-plex-serif.qmd
         - libre-caslon-text.qmd
+        - literata.qmd
         - lora.qmd
         - mlmodern.qmd
         - newsreader.qmd

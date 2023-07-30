@@ -1,0 +1,29 @@
+# Literata
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Literata", "Google Fonts"),
+  btn_link("https://github.com/googlefonts/literata", "GitHub")
+)
+```
+
+## Specimen
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+
+```{css}
+.live { font-family: "Literata", serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
