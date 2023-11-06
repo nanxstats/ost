@@ -79,6 +79,11 @@ book:
         - red-hat-text.qmd
         - source-sans.qmd
 
+    - part: slab-serif.qmd
+      chapters:
+        - roboto-slab.qmd
+        - zilla-slab.qmd
+
     - part: monospace.qmd
       chapters:
         - cascadia-code.qmd
