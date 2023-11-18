@@ -87,6 +87,7 @@ book:
     - part: monospace.qmd
       chapters:
         - cascadia-code.qmd
+        - commit-mono.qmd
         - fira-code.qmd
         - fragment-mono.qmd
         - ibm-plex-mono.qmd
