@@ -59,6 +59,7 @@ book:
         - newsreader.qmd
         - roboto-serif.qmd
         - source-serif.qmd
+        - stix-two-text.qmd
 
     - part: sans-serif.qmd
       chapters:
