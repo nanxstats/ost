@@ -93,6 +93,7 @@ book:
         - fragment-mono.qmd
         - ibm-plex-mono.qmd
         - inconsolata.qmd
+        - jetbrains-mono.qmd
         - red-hat-mono.qmd
         - roboto-mono.qmd
         - source-code-pro.qmd
