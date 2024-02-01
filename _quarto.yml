@@ -79,6 +79,7 @@ book:
         - outfit.qmd
         - red-hat-text.qmd
         - source-sans.qmd
+        - spline-sans.qmd
 
     - part: slab-serif.qmd
       chapters:
@@ -97,6 +98,7 @@ book:
         - red-hat-mono.qmd
         - roboto-mono.qmd
         - source-code-pro.qmd
+        - spline-sans-mono.qmd
 
     - part: display.qmd
       chapters:
