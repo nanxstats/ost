@@ -79,6 +79,7 @@ book:
         - outfit.qmd
         - red-hat-text.qmd
         - source-sans.qmd
+        - spartan-mb.qmd
         - spline-sans.qmd
 
     - part: slab-serif.qmd
