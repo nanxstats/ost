@@ -46,6 +46,7 @@ book:
       chapters:
         - besley.qmd
         - cardo.qmd
+        - castoro.qmd
         - charter.qmd
         - cormorant-garamond.qmd
         - crimson-pro.qmd
