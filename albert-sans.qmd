@@ -1,0 +1,29 @@
+# Albert Sans
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Albert+Sans", "Google Fonts"),
+  btn_link("https://github.com/usted/Albert-Sans", "GitHub")
+)
+```
+
+## Specimen
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+```{css}
+.live { font-family: "Albert Sans", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```

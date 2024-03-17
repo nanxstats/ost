@@ -63,6 +63,7 @@ book:
 
     - part: sans-serif.qmd
       chapters:
+        - albert-sans.qmd
         - aspekta.qmd
         - cabin.qmd
         - commissioner.qmd
