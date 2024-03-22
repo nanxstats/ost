@@ -1,0 +1,25 @@
+# Overused Grotesk
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://github.com/RandomMaerks/Overused-Grotesk", "GitHub")
+)
+```
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/overused-grotesk.css");
+.live { font-family: "Overused Grotesk", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
