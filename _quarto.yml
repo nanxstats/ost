@@ -8,11 +8,10 @@ highlight-style: github
 
 book:
   title: "Open Source Typography"
-  subtitle: "A Curated Lookbook for Creative Expression"
+  subtitle: "A Curated Interactive Lookbook"
   author: "Nan Xiao"
   description: |
-    Discover exceptional open source typefaces in this curated lookbook
-    for web and software design projects.
+    Discover open source typefaces for web and software projects.
 
   cover-image: "images/cover.png"
   image: "images/preview.png"
@@ -27,13 +26,11 @@ book:
   open-graph:
     image: https://nanx.me/ost/images/preview.png
     description: |
-      Discover exceptional open source typefaces in this curated lookbook
-      for web and software design projects.
+      Discover open source typefaces for web and software projects.
   twitter-card:
     image: https://nanx.me/ost/images/preview.png
     description: |
-      Discover exceptional open source typefaces in this curated lookbook
-      for web and software design projects.
+      Discover open source typefaces for web and software projects.
     card-style: summary_large_image
     creator: "@nanxstats"
     site: "@nanxstats"
