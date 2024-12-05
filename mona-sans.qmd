@@ -6,14 +6,18 @@ source("_common.R")
 
 ```{r}
 htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Mona+Sans", "Google Fonts"),
   btn_link("https://github.com/github/mona-sans", "GitHub")
 )
 ```
 
 ## Specimen
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+
 ```{css}
-@import url("assets/fonts/mona-sans/mona-sans.css");
 .live { font-family: "Mona Sans", sans-serif; }
 ```
 
