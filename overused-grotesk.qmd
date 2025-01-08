@@ -13,7 +13,7 @@ htmltools::tagList(
 ## Specimen
 
 ```{css}
-@import url("assets/fonts/overused-grotesk.css");
+@import url("assets/fonts/overused-grotesk/overused-grotesk.css");
 .live { font-family: "Overused Grotesk", sans-serif; }
 ```
 
