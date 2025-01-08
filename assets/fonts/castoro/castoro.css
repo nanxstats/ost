@@ -1,0 +1,14 @@
+@font-face {
+    font-display: swap;
+    font-family: "Castoro";
+    src: url("Castoro-Roman.woff2") format("woff2");
+    font-weight: 400 700;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Castoro";
+    src: url("Castoro-Italic.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 400 700;
+}
