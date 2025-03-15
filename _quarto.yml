@@ -44,7 +44,6 @@ book:
         - besley.qmd
         - cardo.qmd
         - castoro.qmd
-        - charter.qmd
         - cormorant-garamond.qmd
         - crimson-pro.qmd
         - eb-garamond.qmd
@@ -58,6 +57,7 @@ book:
         - roboto-serif.qmd
         - source-serif.qmd
         - stix-two-text.qmd
+        - xcharter.qmd
 
     - part: sans-serif.qmd
       chapters:

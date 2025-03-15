@@ -1,4 +1,4 @@
-# Charter
+# XCharter
 
 ```{r, include=FALSE}
 source("_common.R")
@@ -6,15 +6,15 @@ source("_common.R")
 
 ```{r}
 htmltools::tagList(
-  btn_link("https://practicaltypography.com/charter.html", "Practical Typography")
+  btn_link("https://www.tug.org/FontCatalogue/xcharter/", "The LaTeX Font Catalogue")
 )
 ```
 
 ## Specimen
 
 ```{css}
-@import url("assets/fonts/charter/charter.css");
-.live { font-family: "Charter", serif; }
+@import url("assets/fonts/xcharter/xcharter.css");
+.live { font-family: "XCharter", serif; }
 ```
 
 ```{r}
