@@ -6,18 +6,10 @@ $primary: #385898 !default;
 
 @font-face {
     font-display: swap;
-    font-family: "Lato";
-    src: url("fonts/Lato-VF.woff2") format("woff2");
-    font-weight: 100 900;
+    font-family: "BDO Grotesk";
+    src: url("fonts/BDOGrotesk-VF.woff2") format("woff2");
+    font-weight: 300 900;
     font-style: normal;
-}
-
-@font-face {
-    font-display: swap;
-    font-family: "Lato";
-    src: url("fonts/Lato-Italic-VF.woff2") format("woff2");
-    font-weight: 100 900;
-    font-style: italic;
 }
 
 /* Use Bootstrap Icons for buttons */
