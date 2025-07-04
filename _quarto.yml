@@ -80,6 +80,7 @@ book:
         - red-hat-text.qmd
         - source-sans.qmd
         - spartan-mb.qmd
+        - special-gothic.qmd
         - spline-sans.qmd
 
     - part: slab-serif.qmd
