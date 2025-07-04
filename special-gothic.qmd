@@ -1,0 +1,26 @@
+# Special Gothic
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/Special+Gothic", "Google Fonts"),
+  btn_link("https://github.com/AlistairMcCready/Special-Gothic", "GitHub")
+)
+```
+
+## Specimen
+
+```{css}
+@import url("assets/fonts/special-gothic/special-gothic.css");
+.live { font-family: "Special Gothic", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
