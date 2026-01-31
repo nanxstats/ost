@@ -1,0 +1,29 @@
+# SN Pro
+
+```{r, include=FALSE}
+source("_common.R")
+```
+
+```{r}
+htmltools::tagList(
+  btn_link("https://fonts.google.com/specimen/SN+Pro", "Google Fonts"),
+  btn_link("https://github.com/supernotes/sn-pro", "GitHub")
+)
+```
+
+## Specimen
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+
+```{css}
+.live { font-family: "SN Pro", sans-serif; }
+```
+
+```{r}
+htmltools::includeCSS("assets/ctxedit/ctxedit.css")
+htmltools::includeHTML("assets/ctxedit/sample.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-ui.html")
+htmltools::includeHTML("assets/ctxedit/ctxedit-js.html")
+```
